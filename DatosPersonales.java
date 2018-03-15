@@ -1,0 +1,27 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package datospersonales;
+
+/**
+ *
+ * @author jorge
+ */
+public class DatosPersonales {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Jorge Alfredo");
+        System.out.println("Orellana Flores");
+        System.out.println("Hombre");
+        System.out.println(18);
+        System.out.println(15+"/"+12+"/"+1999);
+        
+    }
+    
+}
